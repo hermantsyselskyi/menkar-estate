@@ -1,0 +1,4 @@
+#
+- CREATE DB FOR LISTINGS
+- CREATE '/listings' FOR 'GET' REQUEST
+- CREATE '/listings' FOR 'POST' REQUEST
